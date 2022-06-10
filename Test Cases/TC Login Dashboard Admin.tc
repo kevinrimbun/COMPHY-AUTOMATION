@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Login Dashboard Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f25f229f-b538-49ef-8d0a-06d2bfdcec3e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>978b0f18-3afe-42f1-960f-74dca10c1cda</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ea23252-92f7-439f-b2b8-719695d9e1da</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
